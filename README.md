@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BCA (Bachelor of Computer Applications)<br>🌱 I’m currently learning Web front and development<br>👯 I’m looking to collaborate on for new project in front and development<br>🤝 I’m looking for help with I’m looking for help with for front and development in finder a job<br>👨‍💻 All of my projects are available at "https://github.com/ayyu0007"<br>📫 How to reach me "ayushrangani71530@gmail.com"<br>⚡ Fun fact - I am Devloper 😅
+🔭 I’m currently working on BCA (Bachelor of Computer Applications)<br>🌱 I’m currently learning Web front and development<br>👯 I’m looking to collaborate on for new project in front and development<br>🤝 I’m looking for help with I’m looking for help with for front and development in finder a job<br>👨‍💻 All of my projects are available at "https://github.com/ayyu0007"<br>📫 How to reach me "www.linkedin.com/in/ayush-rangani-50976b248"<br>⚡ Fun fact - I am Devloper 😅
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
